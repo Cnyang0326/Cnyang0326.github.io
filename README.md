@@ -1,7 +1,7 @@
-# Cnyang0326.github.io
-Jane Smith
+# Chee Nou Yang
 Hospitality Professional
-GitHub | LinkedIn | Email | Phone: +123 456 7890 | City, Country
+
+GitHub | LinkedIn | Email | Phone: +123 456 7890 | Chiang Mai, Thailand
 
 Summary
 
