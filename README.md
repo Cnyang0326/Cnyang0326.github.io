@@ -3,11 +3,11 @@ Hospitality Professional
 
  [LinkedIn](https://www.linkedin.com/in/yangcn/) | Cnyang0326@gmail.com | Phone: Request | Chiang Mai, Thailand
 
-Summary
+## Summary
 
 Dedicated professional with over 4 years of experience in the Miilitary, and 4 years of experience providing excellent customer service, proficient management, skilled leadership, and HVAC training. Skilled in guest relations, team management, and maintaining high standards in fast-paced environments. Seeking to leverage my interpersonal and organizational skills in a dynamic team.
 
-Skills
+### Skills
 
 	•	Customer Service: Handling guest inquiries, complaints, and special requests
 	•	Team Leadership: Managing and motivating teams to ensure efficient operations
@@ -18,17 +18,16 @@ Skills
  	•	Efficient and Effective: Able to efficiently and effectively do all tasks without complaint or questions
   	•	Quick Learner: Strong efficient learning skills, able to completely understand tasks within hours
 
-Education
+### Education
 
-Diploma in Hospitality Management
-Payap University International College, Chiang Mai, Thailand | 2023 - Present
+	•	Diploma in Hospitality Management | Payap University International College, Chiang Mai, Thailand | 2023 - Present
 
-Santa Monica College, Santa Monica, Los Angeles, USA | 2020-2021
+	•	Santa Monica College, Santa Monica, Los Angeles, USA | 2020-2021
 
-Dakota County Technical College, Rosemount, Minnesota, USA | 2014-2015
+	•	Dakota County Technical College, Rosemount, Minnesota, USA | 2014-2015
 
 
-Certifications
+### Certifications
 
 	•	Damage Mitigation and Conflict Resolvement Certified
 	•	First Aid and CPR Certified
@@ -37,7 +36,7 @@ Certifications
    	•	Gun License
     	•	Hand to Hand Combat Ceritified
  
-Experience
+### Experience
 
 Consultant
 US Army, VA Affairs | 2020 - Present
@@ -54,12 +53,12 @@ US Army, Joint Base Lewis-McChord, Washington, USA | 2016 - 2020
 	•	Performed preventative maintenance actions on equipment, including HVAC, generators, and vehicles, ideentifying areas to increase efficiency and cost-saving measures, and averageing a four-day turnaround on all repairs
 	•	Oversaw the inventory and documentation of 100s of parts, developing improved organizational tools to more efficiently locate items and improve the accuracy of supply orders, part locations, and the efficiency of turnarounds
 	•	Communicated across multiple departments with a diver range of personalities, backgrounds, and laguages, contributing of a better cohesive team, earning a consistent % of satisfaction rating from both internal and external stakeholders
- 	•	
+ 	
 
 
 
 
-Languages
+### Languages
 
 	•	English (Fluent)
  	•	Thai (Fluent)
