@@ -1,6 +1,6 @@
 # Chee Nou Yang
 
- [LinkedIn](https://www.linkedin.com/in/yangcn/) | [Email](Mail2.Cnyang0326@gmail.com) | Phone: Request | Chiang Mai, Thailand
+ [LinkedIn](https://www.linkedin.com/in/yangcn/) | [Email](mailto://Cnyang0326@gmail.com) | Phone: Request | Chiang Mai, Thailand
 
 ## Summary
 
