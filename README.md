@@ -1,5 +1,4 @@
 # Chee Nou Yang
-Hospitality Professional
 
  [LinkedIn](https://www.linkedin.com/in/yangcn/) | Cnyang0326@gmail.com | Phone: Request | Chiang Mai, Thailand
 
