@@ -60,6 +60,6 @@ US Army, Joint Base Lewis-McChord, Washington, USA | 2016 - 2020
 ### Languages
 
 	•	English (Fluent)
- 	•	Thai (Fluent)
+	•	Thai (Fluent)
 	•	Hmong (Conversational)
 
